@@ -3,15 +3,16 @@
   "description": "Something in the way",
   "artist": "Who knows",
   "author": "Meeenga",
-  "cover": "https://img.freepik.com/darmowe-wektory/realistyczny-sklad-papieru-testowego-z-olowkiem-i-stosem-dokumentow-studenckich-z-ocenami-i-poprawnymi-odpowiedziami_1284-54249.jpg",
+  "cover": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
   "chapters": {
-    "1": {
-      "title": "Chapter 1",
-      "volume": "1",
+    "0": {
+      
       "groups": {
         "Test1": "/proxy/api/imgur/chapter/yhs9fXc/"
       },
       "last_updated": "1616368746"
-    },
+      "title": "Chapter 1",
+      "volume": "1",
+    }
   }
 }
