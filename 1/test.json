@@ -1,0 +1,17 @@
+{
+  "title": "Nirvana",
+  "description": "Something in the way",
+  "artist": "Who knows",
+  "author": "Meeenga",
+  "cover": "https://img.freepik.com/darmowe-wektory/realistyczny-sklad-papieru-testowego-z-olowkiem-i-stosem-dokumentow-studenckich-z-ocenami-i-poprawnymi-odpowiedziami_1284-54249.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/yhs9fXc/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
