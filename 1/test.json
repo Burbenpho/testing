@@ -1,16 +1,16 @@
-{    
-    "title": "War for Rayuba: Shield Soundyear II",
-    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
-    "author": "Shield Generator 7",
-    "artist": "Shield Generator 7",
-    "cover": "https://i.imgur.com/MxxaE9O.png",
+{
+    "title": "Nirvana",
+    "description": "Something in the way",
+    "author": "Meeenga",
+    "artist": "Who knows",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
     "chapters": {
         "0": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+                "Test1": "/proxy/api/imgur/chapter/yhs9fXc/"
             },
-            "last_updated": 1624606143,
-            "title": "Intro",
+            "last_updated": 1616368746,
+            "title": "Chapter 1",
             "volume": "1"
         }
     }
